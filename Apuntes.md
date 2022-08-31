@@ -1,4 +1,4 @@
-## Diseño de Base de Datos
+## Diseño de Bases de Datos
 
 *Esquema conceptual:* Descripción de alto nivel de la estructura de la BD, nos consentramos en los datos, el mismo no tiene comportamiento, es diferente del modelo de objetos. 
 
